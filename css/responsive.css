@@ -1,0 +1,71 @@
+/*
+Code written by :
+MD. SHAHAB UDDIN
+CEO,DevsTheme
+Website: https://www.devstheme.com
+Email: support@devstheme.com
+*/
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+ 
+
+
+  
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) {
+
+
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px)  and (orientation : portrait){
+
+}
+
+
+
+/* Samsung Galaxy S5 ----------- */
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px)
+{
+  
+
+}
+
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape)
+{
+
+}
+
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait){
+
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+
+
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+
+
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+
+ 
+}
+
+
+@media only screen and (max-device-width : 640px){
+
+
+}
